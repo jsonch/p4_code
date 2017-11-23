@@ -1,2 +1,3 @@
-# p4_code
-P4 Code Examples
+### P4 open source code ###
+
+This repository has P4 code snippets and programs from my projects. It is a work in progress.
